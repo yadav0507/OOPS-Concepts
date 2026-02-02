@@ -1,0 +1,13 @@
+//
+
+
+
+
+/* Interfaces */
+
+//1. Interfaces are completely used for polymorphism
+// 2. Interface can be called as abstract class with all abstract methods.
+// 3. Interfaces implements super class.
+// interfaces are implemented
+// by implements it can implemets multiple interfaces
+// Interfaces are only meant for overriding.
